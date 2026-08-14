@@ -1,0 +1,2 @@
+# No third-party dependencies - uses only the Python standard library
+# (hashlib, os, json, csv, argparse, fnmatch).
